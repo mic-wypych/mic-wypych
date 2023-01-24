@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm a PhD Candidate in Social Psychology at University of Warsaw Studying intergroup relations, emotions and language
 
 I work with `R`, `Python`, `SQL`
