@@ -5,14 +5,20 @@ I work with `R`, `Python`, `SQL`
 Some of my `Tidytuesday` submissions:
 ---
 <p align='center'>
-<a href="https://github.com/Honestiore/tidytuesday/blob/main/2023/week4/week4.png">
-<img src="Alone_tv-show.png" width="70%" /> 
-    </a></p>
-    
-<p align='center'>
 <a href="https://github.com/Honestiore/tidytuesday/blob/main/2022/week47/museums.png">
 <img src="Museums.png"  width="70%" /> 
     </a></p>
+
+<p align='center'>
+<a href="https://github.com/Honestiore/tidytuesday/blob/main/2023/week4/week4.png">
+<img src="Alone_tv-show.png" width="70%" /> 
+    </a></p>
+
+<p align='center'>
+<a href="https://github.com/Honestiore/tidytuesday/blob/main/2023/week8/bob_ross.png">
+<img src="bob_ross.png"  width="70%" /> 
+    </a></p>
+
     
 <p align='center'>
 <a href="https://github.com/Honestiore/tidytuesday/blob/main/2022/week45/radio_states.png">
