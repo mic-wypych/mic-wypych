@@ -10,6 +10,11 @@ Some of my `Tidytuesday` submissions:
     </a></p>
 
 <p align='center'>
+<a href="https://github.com/mic-wypych/tidytuesday/blob/main/2023/week17/week17.png">
+<img src="Marathons.png"  width="70%" /> 
+    </a></p>
+
+<p align='center'>
 <a href="https://github.com/Honestiore/tidytuesday/blob/main/2023/week4/week4.png">
 <img src="Alone_tv-show.png" width="70%" /> 
     </a></p>
