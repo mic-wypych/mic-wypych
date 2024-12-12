@@ -29,6 +29,12 @@ Some of my `Tidytuesday` submissions:
 <a href="https://github.com/Honestiore/tidytuesday/blob/main/2022/week45/radio_states.png">
 <img src="radio_states.png"  width="70%" /> 
     </a></p>
+
+
+<p align='center'>
+<a href="https://github.com/mic-wypych/tidytuesday/blob/main/2024/45/sankey.png">
+<img src="sankey.png"  width="70%" /> 
+    </a></p>
  
 <!--
 **Honestiore/Honestiore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
