@@ -1,4 +1,4 @@
-I'm a PhD Candidate in Social Psychology at University of Warsaw Studying intergroup relations, emotions and language
+I’m a Data Analyst with a background in academia and psychology. I specialize in research design, statistical analysis, and turning data into actionable insights. Passionate about making data meaningful and impactful
 
 I work with `R`, `Python`, `SQL`
 
